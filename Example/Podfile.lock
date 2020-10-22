@@ -1,0 +1,16 @@
+PODS:
+  - BHDanWuHen (0.1.0)
+
+DEPENDENCIES:
+  - BHDanWuHen (from `../`)
+
+EXTERNAL SOURCES:
+  BHDanWuHen:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BHDanWuHen: db5faab9ea52946a3a1bede41202adb1bbd86652
+
+PODFILE CHECKSUM: 53e8bb2db4d2b9b492b499cc8e494222cb5419c8
+
+COCOAPODS: 1.10.0.rc.1

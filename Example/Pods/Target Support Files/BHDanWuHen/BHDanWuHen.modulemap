@@ -1,0 +1,6 @@
+framework module BHDanWuHen {
+  umbrella header "BHDanWuHen-umbrella.h"
+
+  export *
+  module * { export * }
+}
